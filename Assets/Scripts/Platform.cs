@@ -1,4 +1,3 @@
-using System;
 using System.Collections.Generic;
 using UnityEngine;
 using Random = UnityEngine.Random;
@@ -13,8 +12,6 @@ public class Platform : MonoBehaviour
     [SerializeField] private List<StickmansGroup> _stickmansGroups;
     [Space]
     [SerializeField] private GameObject _trap;
-    [Space]
-    [SerializeField] private GameObject _player;
 
     public Transform StartPoint => _startPoint;
     public Transform EndPoint => _endPoint;

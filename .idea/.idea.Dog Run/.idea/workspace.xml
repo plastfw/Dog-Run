@@ -19,29 +19,44 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Branch.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Finish.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stickman/Stickman.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stickman/StickmansGroup.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.recorder@2.5.7/Editor/Sources/Recorders/_Inputs/Animation/AnimationInput.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stickman/Pattern.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Platform.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stickman/AnimationController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Stickman/StickmanAnimator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/PlayerInput.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Trap.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Finish.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Mover.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/MapGenerator.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/Player.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Stickman/StickmansGroup.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Stickman/Pattern.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Stickman/Stickman.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Stickman/AnimationController.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Player/Deactivator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Mover.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Dog/Mover.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Dog/AnimatorController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Dog/StickmanAnimator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Dog/DogAnimator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Dog/Deactivator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/TEST.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Trap/TrapAnimator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Trap/Animation360.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Platform.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Player/Dog/PlayerInput.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Stickman/StickmanAnimator.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Stickman/RagdollController.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Stickman/Stickman.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/BranchFragment.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Branch.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Trap/Trap.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Branch/Branch.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Branch/Cutter.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="29c1weo9Re0esDCj0RFQaSz0CLa" />
@@ -54,6 +69,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -93,6 +109,20 @@
       <workItem from="1654697539155" duration="6494000" />
       <workItem from="1654849951300" duration="2206000" />
       <workItem from="1655103603368" duration="14086000" />
+      <workItem from="1655204353740" duration="1806000" />
+      <workItem from="1655229442866" duration="1320000" />
+      <workItem from="1655725664761" duration="9768000" />
+      <workItem from="1655879569616" duration="10118000" />
+      <workItem from="1655977704806" duration="2675000" />
+      <workItem from="1655980421976" duration="441000" />
+      <workItem from="1655980889653" duration="181000" />
+      <workItem from="1655981090801" duration="2792000" />
+      <workItem from="1655983920318" duration="1035000" />
+      <workItem from="1655984983495" duration="2301000" />
+      <workItem from="1656140279028" duration="1193000" />
+      <workItem from="1656411551128" duration="3222000" />
+      <workItem from="1656473311989" duration="16176000" />
+      <workItem from="1656566198814" duration="13998000" />
     </task>
     <servers />
   </component>
@@ -103,5 +133,9 @@
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
